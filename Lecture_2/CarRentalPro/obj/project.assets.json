@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\0\\C#\\Backend_Lecture_Materials\\Lecture_2\\CarRentalPro\\CarRentalPro.csproj",
+      "projectUniqueName": "D:\\0\\C#\\YETGENJUMPAKBANKLECTURES\\Lecture_2\\CarRentalPro\\CarRentalPro.csproj",
       "projectName": "CarRentalPro",
-      "projectPath": "D:\\0\\C#\\Backend_Lecture_Materials\\Lecture_2\\CarRentalPro\\CarRentalPro.csproj",
+      "projectPath": "D:\\0\\C#\\YETGENJUMPAKBANKLECTURES\\Lecture_2\\CarRentalPro\\CarRentalPro.csproj",
       "packagesPath": "C:\\Users\\tarik\\.nuget\\packages\\",
-      "outputPath": "D:\\0\\C#\\Backend_Lecture_Materials\\Lecture_2\\CarRentalPro\\obj\\",
+      "outputPath": "D:\\0\\C#\\YETGENJUMPAKBANKLECTURES\\Lecture_2\\CarRentalPro\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tarik\\AppData\\Roaming\\NuGet\\NuGet.Config",

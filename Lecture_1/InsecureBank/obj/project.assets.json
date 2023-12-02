@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\0\\C#\\Backend_Lecture_Materials\\Lecture_1\\InsecureBank\\InsecureBank.csproj",
+      "projectUniqueName": "D:\\0\\C#\\YETGENJUMPAKBANKLECTURES\\Lecture_1\\InsecureBank\\InsecureBank.csproj",
       "projectName": "InsecureBank",
-      "projectPath": "D:\\0\\C#\\Backend_Lecture_Materials\\Lecture_1\\InsecureBank\\InsecureBank.csproj",
+      "projectPath": "D:\\0\\C#\\YETGENJUMPAKBANKLECTURES\\Lecture_1\\InsecureBank\\InsecureBank.csproj",
       "packagesPath": "C:\\Users\\tarik\\.nuget\\packages\\",
-      "outputPath": "D:\\0\\C#\\Backend_Lecture_Materials\\Lecture_1\\InsecureBank\\obj\\",
+      "outputPath": "D:\\0\\C#\\YETGENJUMPAKBANKLECTURES\\Lecture_1\\InsecureBank\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tarik\\AppData\\Roaming\\NuGet\\NuGet.Config",

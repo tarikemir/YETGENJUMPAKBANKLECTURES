@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\0\\C#\\Backend_Lecture_Materials\\Lecture_1\\ZamazonDelivery\\ZamazonDelivery.csproj",
+      "projectUniqueName": "D:\\0\\C#\\YETGENJUMPAKBANKLECTURES\\Lecture_1\\ZamazonDelivery\\ZamazonDelivery.csproj",
       "projectName": "ZamazonDelivery",
-      "projectPath": "D:\\0\\C#\\Backend_Lecture_Materials\\Lecture_1\\ZamazonDelivery\\ZamazonDelivery.csproj",
+      "projectPath": "D:\\0\\C#\\YETGENJUMPAKBANKLECTURES\\Lecture_1\\ZamazonDelivery\\ZamazonDelivery.csproj",
       "packagesPath": "C:\\Users\\tarik\\.nuget\\packages\\",
-      "outputPath": "D:\\0\\C#\\Backend_Lecture_Materials\\Lecture_1\\ZamazonDelivery\\obj\\",
+      "outputPath": "D:\\0\\C#\\YETGENJUMPAKBANKLECTURES\\Lecture_1\\ZamazonDelivery\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tarik\\AppData\\Roaming\\NuGet\\NuGet.Config",
