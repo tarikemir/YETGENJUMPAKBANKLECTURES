@@ -1,0 +1,14 @@
+D:\0\C#\Backend_Lecture_Materials\Lecture_2\CarRentalPro\bin\Debug\net7.0\CarRentalPro.exe
+D:\0\C#\Backend_Lecture_Materials\Lecture_2\CarRentalPro\bin\Debug\net7.0\CarRentalPro.deps.json
+D:\0\C#\Backend_Lecture_Materials\Lecture_2\CarRentalPro\bin\Debug\net7.0\CarRentalPro.runtimeconfig.json
+D:\0\C#\Backend_Lecture_Materials\Lecture_2\CarRentalPro\bin\Debug\net7.0\CarRentalPro.dll
+D:\0\C#\Backend_Lecture_Materials\Lecture_2\CarRentalPro\bin\Debug\net7.0\CarRentalPro.pdb
+D:\0\C#\Backend_Lecture_Materials\Lecture_2\CarRentalPro\obj\Debug\net7.0\CarRentalPro.GeneratedMSBuildEditorConfig.editorconfig
+D:\0\C#\Backend_Lecture_Materials\Lecture_2\CarRentalPro\obj\Debug\net7.0\CarRentalPro.AssemblyInfoInputs.cache
+D:\0\C#\Backend_Lecture_Materials\Lecture_2\CarRentalPro\obj\Debug\net7.0\CarRentalPro.AssemblyInfo.cs
+D:\0\C#\Backend_Lecture_Materials\Lecture_2\CarRentalPro\obj\Debug\net7.0\CarRentalPro.csproj.CoreCompileInputs.cache
+D:\0\C#\Backend_Lecture_Materials\Lecture_2\CarRentalPro\obj\Debug\net7.0\CarRentalPro.dll
+D:\0\C#\Backend_Lecture_Materials\Lecture_2\CarRentalPro\obj\Debug\net7.0\refint\CarRentalPro.dll
+D:\0\C#\Backend_Lecture_Materials\Lecture_2\CarRentalPro\obj\Debug\net7.0\CarRentalPro.pdb
+D:\0\C#\Backend_Lecture_Materials\Lecture_2\CarRentalPro\obj\Debug\net7.0\CarRentalPro.genruntimeconfig.cache
+D:\0\C#\Backend_Lecture_Materials\Lecture_2\CarRentalPro\obj\Debug\net7.0\ref\CarRentalPro.dll

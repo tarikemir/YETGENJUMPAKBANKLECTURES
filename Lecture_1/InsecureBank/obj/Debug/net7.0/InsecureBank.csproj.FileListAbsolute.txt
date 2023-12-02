@@ -1,0 +1,14 @@
+D:\0\C#\Backend_Lecture_Materials\Lecture_1\InsecureBank\bin\Debug\net7.0\InsecureBank.exe
+D:\0\C#\Backend_Lecture_Materials\Lecture_1\InsecureBank\bin\Debug\net7.0\InsecureBank.deps.json
+D:\0\C#\Backend_Lecture_Materials\Lecture_1\InsecureBank\bin\Debug\net7.0\InsecureBank.runtimeconfig.json
+D:\0\C#\Backend_Lecture_Materials\Lecture_1\InsecureBank\bin\Debug\net7.0\InsecureBank.dll
+D:\0\C#\Backend_Lecture_Materials\Lecture_1\InsecureBank\bin\Debug\net7.0\InsecureBank.pdb
+D:\0\C#\Backend_Lecture_Materials\Lecture_1\InsecureBank\obj\Debug\net7.0\InsecureBank.GeneratedMSBuildEditorConfig.editorconfig
+D:\0\C#\Backend_Lecture_Materials\Lecture_1\InsecureBank\obj\Debug\net7.0\InsecureBank.AssemblyInfoInputs.cache
+D:\0\C#\Backend_Lecture_Materials\Lecture_1\InsecureBank\obj\Debug\net7.0\InsecureBank.AssemblyInfo.cs
+D:\0\C#\Backend_Lecture_Materials\Lecture_1\InsecureBank\obj\Debug\net7.0\InsecureBank.csproj.CoreCompileInputs.cache
+D:\0\C#\Backend_Lecture_Materials\Lecture_1\InsecureBank\obj\Debug\net7.0\InsecureBank.dll
+D:\0\C#\Backend_Lecture_Materials\Lecture_1\InsecureBank\obj\Debug\net7.0\refint\InsecureBank.dll
+D:\0\C#\Backend_Lecture_Materials\Lecture_1\InsecureBank\obj\Debug\net7.0\InsecureBank.pdb
+D:\0\C#\Backend_Lecture_Materials\Lecture_1\InsecureBank\obj\Debug\net7.0\InsecureBank.genruntimeconfig.cache
+D:\0\C#\Backend_Lecture_Materials\Lecture_1\InsecureBank\obj\Debug\net7.0\ref\InsecureBank.dll

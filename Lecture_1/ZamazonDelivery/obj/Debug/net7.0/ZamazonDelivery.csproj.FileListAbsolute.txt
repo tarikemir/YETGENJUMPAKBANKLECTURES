@@ -1,0 +1,14 @@
+D:\0\C#\Backend_Lecture_Materials\Lecture_1\ZamazonDelivery\bin\Debug\net7.0\ZamazonDelivery.exe
+D:\0\C#\Backend_Lecture_Materials\Lecture_1\ZamazonDelivery\bin\Debug\net7.0\ZamazonDelivery.deps.json
+D:\0\C#\Backend_Lecture_Materials\Lecture_1\ZamazonDelivery\bin\Debug\net7.0\ZamazonDelivery.runtimeconfig.json
+D:\0\C#\Backend_Lecture_Materials\Lecture_1\ZamazonDelivery\bin\Debug\net7.0\ZamazonDelivery.dll
+D:\0\C#\Backend_Lecture_Materials\Lecture_1\ZamazonDelivery\bin\Debug\net7.0\ZamazonDelivery.pdb
+D:\0\C#\Backend_Lecture_Materials\Lecture_1\ZamazonDelivery\obj\Debug\net7.0\ZamazonDelivery.GeneratedMSBuildEditorConfig.editorconfig
+D:\0\C#\Backend_Lecture_Materials\Lecture_1\ZamazonDelivery\obj\Debug\net7.0\ZamazonDelivery.AssemblyInfoInputs.cache
+D:\0\C#\Backend_Lecture_Materials\Lecture_1\ZamazonDelivery\obj\Debug\net7.0\ZamazonDelivery.AssemblyInfo.cs
+D:\0\C#\Backend_Lecture_Materials\Lecture_1\ZamazonDelivery\obj\Debug\net7.0\ZamazonDelivery.csproj.CoreCompileInputs.cache
+D:\0\C#\Backend_Lecture_Materials\Lecture_1\ZamazonDelivery\obj\Debug\net7.0\ZamazonDelivery.dll
+D:\0\C#\Backend_Lecture_Materials\Lecture_1\ZamazonDelivery\obj\Debug\net7.0\refint\ZamazonDelivery.dll
+D:\0\C#\Backend_Lecture_Materials\Lecture_1\ZamazonDelivery\obj\Debug\net7.0\ZamazonDelivery.pdb
+D:\0\C#\Backend_Lecture_Materials\Lecture_1\ZamazonDelivery\obj\Debug\net7.0\ZamazonDelivery.genruntimeconfig.cache
+D:\0\C#\Backend_Lecture_Materials\Lecture_1\ZamazonDelivery\obj\Debug\net7.0\ref\ZamazonDelivery.dll
